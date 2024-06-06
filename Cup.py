@@ -23,4 +23,4 @@ print("5 - 3 =", calc.subtract(5, 3))
 print("5 * 3 =", calc.multiply(5, 3))
 print("5 / 3 =", calc.divide(5, 3))
 #THANK you
-#not THANKs
+#not
